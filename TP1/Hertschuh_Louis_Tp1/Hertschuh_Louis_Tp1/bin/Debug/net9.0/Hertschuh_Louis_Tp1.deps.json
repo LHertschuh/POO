@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Hertschuh_Louis_Tp1/1.0.0": {
+        "runtime": {
+          "Hertschuh_Louis_Tp1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hertschuh_Louis_Tp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/bin/Debug/net9.0/Hertschuh_Louis_Tp1
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/bin/Debug/net9.0/Hertschuh_Louis_Tp1.deps.json
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/bin/Debug/net9.0/Hertschuh_Louis_Tp1.runtimeconfig.json
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/bin/Debug/net9.0/Hertschuh_Louis_Tp1.dll
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/bin/Debug/net9.0/Hertschuh_Louis_Tp1.pdb
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.AssemblyInfoInputs.cache
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.AssemblyInfo.cs
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.csproj.CoreCompileInputs.cache
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.dll
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/refint/Hertschuh_Louis_Tp1.dll
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.pdb
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/Hertschuh_Louis_Tp1.genruntimeconfig.cache
+/Users/louishertschuh/Documents/Cours/POO/TP1/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp1/obj/Debug/net9.0/ref/Hertschuh_Louis_Tp1.dll

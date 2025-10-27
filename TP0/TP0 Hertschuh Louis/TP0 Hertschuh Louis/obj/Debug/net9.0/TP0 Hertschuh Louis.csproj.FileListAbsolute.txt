@@ -1,0 +1,14 @@
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/bin/Debug/net9.0/TP0 Hertschuh Louis
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/bin/Debug/net9.0/TP0 Hertschuh Louis.deps.json
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/bin/Debug/net9.0/TP0 Hertschuh Louis.runtimeconfig.json
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/bin/Debug/net9.0/TP0 Hertschuh Louis.dll
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/bin/Debug/net9.0/TP0 Hertschuh Louis.pdb
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.AssemblyInfoInputs.cache
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.AssemblyInfo.cs
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.csproj.CoreCompileInputs.cache
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.dll
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/refint/TP0 Hertschuh Louis.dll
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.pdb
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/TP0 Hertschuh Louis.genruntimeconfig.cache
+/Users/louishertschuh/Documents/Cours/POO/TP0/TP0 Hertschuh Louis/TP0 Hertschuh Louis/obj/Debug/net9.0/ref/TP0 Hertschuh Louis.dll
