@@ -1,0 +1,15 @@
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/bin/Debug/net9.0/Hertschuh_Louis_Tp2
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/bin/Debug/net9.0/Hertschuh_Louis_Tp2.deps.json
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/bin/Debug/net9.0/Hertschuh_Louis_Tp2.runtimeconfig.json
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/bin/Debug/net9.0/Hertschuh_Louis_Tp2.dll
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/bin/Debug/net9.0/Hertschuh_Louis_Tp2.pdb
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.AssemblyInfoInputs.cache
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.AssemblyInfo.cs
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.csproj.CoreCompileInputs.cache
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.sourcelink.json
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.dll
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/refint/Hertschuh_Louis_Tp2.dll
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.pdb
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/Hertschuh_Louis_Tp2.genruntimeconfig.cache
+/Users/louishertschuh/Git/POO/TP2/Hertschuh_Louis_Tp1/Hertschuh_Louis_Tp2/obj/Debug/net9.0/ref/Hertschuh_Louis_Tp2.dll
